@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## String
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
