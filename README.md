@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
