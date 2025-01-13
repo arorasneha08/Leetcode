@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arorasneha08/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
