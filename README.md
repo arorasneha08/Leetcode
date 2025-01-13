@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/arorasneha08/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arorasneha08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arorasneha08/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/arorasneha08/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arorasneha08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/arorasneha08/Leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
