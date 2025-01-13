@@ -108,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arorasneha08/Leetcode/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arorasneha08/Leetcode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/arorasneha08/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
