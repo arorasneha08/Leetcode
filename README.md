@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/arorasneha08/Leetcode/tree/master/0724-find-pivot-index) |
+| [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1168-duplicate-zeros](https://github.com/arorasneha08/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/arorasneha08/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/arorasneha08/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/arorasneha08/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/arorasneha08/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
