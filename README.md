@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/arorasneha08/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2342-minimum-average-difference](https://github.com/arorasneha08/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2714-left-and-right-sum-differences](https://github.com/arorasneha08/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/arorasneha08/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/arorasneha08/Leetcode/tree/master/0367-valid-perfect-square) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
 |  |
 | ------- |
