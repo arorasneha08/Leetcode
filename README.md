@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/arorasneha08/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arorasneha08/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
