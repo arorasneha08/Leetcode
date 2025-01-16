@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
+| [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/arorasneha08/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arorasneha08/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -170,4 +171,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arorasneha08/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
