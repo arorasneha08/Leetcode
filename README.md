@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/arorasneha08/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arorasneha08/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/arorasneha08/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/arorasneha08/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arorasneha08/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -205,4 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arorasneha08/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
