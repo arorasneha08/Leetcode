@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arorasneha08/Leetcode/tree/master/0207-course-schedule) |
