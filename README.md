@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/arorasneha08/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/arorasneha08/Leetcode/tree/master/0733-flood-fill) |
+| [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
