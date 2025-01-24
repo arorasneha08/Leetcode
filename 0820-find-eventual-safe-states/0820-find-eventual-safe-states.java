@@ -18,24 +18,65 @@ class Solution {
         pathVisited[node] = 0 ; 
         return false; 
     }
+    
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length ;
-        int m = graph[0].length ; 
-        int visited[] = new int[n];
-        int pathVisited[] = new int[n] ; 
-        int check[] = new int[n] ; 
-        List<Integer> list = new ArrayList<>() ; 
+        // int n = graph.length ;
+        // int m = graph[0].length ; 
+        // int visited[] = new int[n];
+        // int pathVisited[] = new int[n]; 
+        // int check[] = new int[n] ; 
+        // List<Integer> list = new ArrayList<>() ; 
+
+        // for(int i = 0 ; i<n ; i++){
+        //     if(visited[i] == 0){
+        //         check(i, graph , list , visited, pathVisited, check) ; 
+        //     }
+        // }
+        // for(int i = 0 ; i<n ; i++){
+        //     if(check[i] == 1){
+        //         list.add(i) ; 
+        //     }
+        // }
+        // return list ; 
+
+        // using topological sort :- 
+
+        int n = graph.length ; 
+        int indegree[] = new int[n] ; 
+        ArrayList<ArrayList<Integer>> adjRev = new ArrayList<>();
 
         for(int i = 0 ; i<n ; i++){
-            if(visited[i] == 0){
-                check(i, graph , list , visited, pathVisited, check) ; 
-            }
+            adjRev.add(new ArrayList<>()); 
         }
+
         for(int i = 0 ; i<n ; i++){
-            if(check[i] == 1){
-                list.add(i) ; 
+            for(int adjNode : graph[i]){
+                adjRev.get(adjNode).add(i);
+                indegree[i]++ ; 
             }
         }
-        return list ; 
+
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> safeNode = new ArrayList<>();
+
+        for(int i = 0 ; i<n ; i++){
+            if(indegree[i] == 0){
+                q.offer(i); 
+            }
+        }
+
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            safeNode.add(curr); 
+
+            for(int adjNode : adjRev.get(curr)){
+                indegree[adjNode]--;
+                if(indegree[adjNode] == 0){
+                    q.offer(adjNode); 
+                }
+            }
+        }
+        Collections.sort(safeNode); 
+        return safeNode ; 
     }
 }
