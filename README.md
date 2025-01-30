@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/arorasneha08/Leetcode/tree/master/0051-n-queens) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/arorasneha08/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -312,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arorasneha08/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
