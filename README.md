@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/arorasneha08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/arorasneha08/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/arorasneha08/Leetcode/tree/master/0207-course-schedule) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arorasneha08/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/arorasneha08/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -318,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arorasneha08/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
