@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/arorasneha08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/arorasneha08/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/arorasneha08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -328,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arorasneha08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arorasneha08/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/arorasneha08/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
