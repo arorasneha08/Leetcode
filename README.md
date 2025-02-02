@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/arorasneha08/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/arorasneha08/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/arorasneha08/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/arorasneha08/Leetcode/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/arorasneha08/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arorasneha08/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
