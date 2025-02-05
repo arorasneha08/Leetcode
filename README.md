@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arorasneha08/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arorasneha08/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/arorasneha08/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arorasneha08/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/arorasneha08/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arorasneha08/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/arorasneha08/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arorasneha08/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/arorasneha08/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
