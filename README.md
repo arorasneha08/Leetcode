@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/arorasneha08/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/arorasneha08/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/arorasneha08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/arorasneha08/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arorasneha08/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/arorasneha08/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/arorasneha08/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/arorasneha08/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/arorasneha08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
