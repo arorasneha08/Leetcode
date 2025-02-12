@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/arorasneha08/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/arorasneha08/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/arorasneha08/Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/arorasneha08/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arorasneha08/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/arorasneha08/Leetcode/tree/master/0064-minimum-path-sum) |
