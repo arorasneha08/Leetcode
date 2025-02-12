@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/arorasneha08/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
 | [0953-reverse-only-letters](https://github.com/arorasneha08/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1170-shortest-common-supersequence](https://github.com/arorasneha08/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arorasneha08/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/arorasneha08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/arorasneha08/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
