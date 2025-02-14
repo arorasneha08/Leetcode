@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arorasneha08/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arorasneha08/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/arorasneha08/Leetcode/tree/master/0724-find-pivot-index) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/arorasneha08/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/arorasneha08/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arorasneha08/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arorasneha08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -516,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
