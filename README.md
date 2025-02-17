@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arorasneha08/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/arorasneha08/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arorasneha08/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
+| [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/arorasneha08/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/arorasneha08/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
 |  |
