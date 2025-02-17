@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arorasneha08/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/arorasneha08/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arorasneha08/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0403-frog-jump](https://github.com/arorasneha08/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/arorasneha08/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arorasneha08/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/arorasneha08/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arorasneha08/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/arorasneha08/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/arorasneha08/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/arorasneha08/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/arorasneha08/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
