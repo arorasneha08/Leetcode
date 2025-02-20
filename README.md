@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arorasneha08/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2902-max-pair-sum-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arorasneha08/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/arorasneha08/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arorasneha08/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2902-max-pair-sum-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arorasneha08/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
