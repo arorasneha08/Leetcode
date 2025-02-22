@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/arorasneha08/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
 | [0953-reverse-only-letters](https://github.com/arorasneha08/Leetcode/tree/master/0953-reverse-only-letters) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/arorasneha08/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/arorasneha08/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/arorasneha08/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/arorasneha08/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/arorasneha08/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arorasneha08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -594,5 +597,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arorasneha08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
