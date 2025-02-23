@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arorasneha08/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/arorasneha08/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/arorasneha08/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arorasneha08/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arorasneha08/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/arorasneha08/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
@@ -621,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
