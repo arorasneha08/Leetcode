@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arorasneha08/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2714-left-and-right-sum-differences](https://github.com/arorasneha08/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/arorasneha08/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arorasneha08/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/arorasneha08/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/arorasneha08/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/arorasneha08/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arorasneha08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arorasneha08/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
