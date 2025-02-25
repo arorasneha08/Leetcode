@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1559-cherry-pickup-ii](https://github.com/arorasneha08/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/arorasneha08/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arorasneha08/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arorasneha08/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/arorasneha08/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arorasneha08/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/arorasneha08/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arorasneha08/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arorasneha08/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/arorasneha08/Leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/arorasneha08/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arorasneha08/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arorasneha08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Queue
