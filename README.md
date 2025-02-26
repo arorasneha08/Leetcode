@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/arorasneha08/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/arorasneha08/Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/arorasneha08/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arorasneha08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arorasneha08/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/arorasneha08/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arorasneha08/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/arorasneha08/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/arorasneha08/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arorasneha08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arorasneha08/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/arorasneha08/Leetcode/tree/master/0684-redundant-connection) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/arorasneha08/Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/arorasneha08/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arorasneha08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arorasneha08/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arorasneha08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/arorasneha08/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/arorasneha08/Leetcode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/arorasneha08/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arorasneha08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/arorasneha08/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arorasneha08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/arorasneha08/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
