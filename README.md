@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/arorasneha08/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arorasneha08/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/arorasneha08/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arorasneha08/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arorasneha08/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arorasneha08/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/arorasneha08/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arorasneha08/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arorasneha08/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/arorasneha08/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arorasneha08/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arorasneha08/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
 |  |
 | ------- |
