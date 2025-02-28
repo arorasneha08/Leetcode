@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arorasneha08/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arorasneha08/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/arorasneha08/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/arorasneha08/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/arorasneha08/Leetcode/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/arorasneha08/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/arorasneha08/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arorasneha08/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/arorasneha08/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
