@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/arorasneha08/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/arorasneha08/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1559-cherry-pickup-ii](https://github.com/arorasneha08/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/arorasneha08/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/arorasneha08/Leetcode/tree/master/1603-running-sum-of-1d-array) |
