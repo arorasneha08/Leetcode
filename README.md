@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/arorasneha08/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/arorasneha08/Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arorasneha08/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/arorasneha08/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
