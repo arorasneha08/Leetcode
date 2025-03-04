@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arorasneha08/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/arorasneha08/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arorasneha08/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
