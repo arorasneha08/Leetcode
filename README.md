@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/arorasneha08/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/arorasneha08/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/arorasneha08/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/arorasneha08/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/arorasneha08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/arorasneha08/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/arorasneha08/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/arorasneha08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/arorasneha08/Leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/arorasneha08/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0292-nim-game](https://github.com/arorasneha08/Leetcode/tree/master/0292-nim-game) |
@@ -794,10 +796,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arorasneha08/Leetcode/tree/master/0204-count-primes) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arorasneha08/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/arorasneha08/Leetcode/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arorasneha08/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
