@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/arorasneha08/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arorasneha08/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/arorasneha08/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/arorasneha08/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arorasneha08/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arorasneha08/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/arorasneha08/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arorasneha08/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arorasneha08/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arorasneha08/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arorasneha08/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Game Theory
 |  |
