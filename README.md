@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/arorasneha08/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/arorasneha08/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/arorasneha08/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/arorasneha08/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -818,15 +819,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/arorasneha08/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/arorasneha08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/arorasneha08/Leetcode/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/arorasneha08/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/arorasneha08/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
