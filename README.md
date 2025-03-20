@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arorasneha08/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/arorasneha08/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/arorasneha08/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/arorasneha08/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/arorasneha08/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arorasneha08/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/arorasneha08/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/arorasneha08/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arorasneha08/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
