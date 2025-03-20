@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arorasneha08/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arorasneha08/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/arorasneha08/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/arorasneha08/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/arorasneha08/Leetcode/tree/master/0147-insertion-sort-list) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/arorasneha08/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/arorasneha08/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
