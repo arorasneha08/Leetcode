@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/arorasneha08/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/arorasneha08/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/arorasneha08/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/arorasneha08/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/arorasneha08/Leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/arorasneha08/Leetcode/tree/master/0721-accounts-merge) |
+| [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/arorasneha08/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arorasneha08/Leetcode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/arorasneha08/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/arorasneha08/Leetcode/tree/master/2048-build-array-from-permutation) |
