@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/arorasneha08/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arorasneha08/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/arorasneha08/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arorasneha08/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arorasneha08/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2470-removing-stars-from-a-string](https://github.com/arorasneha08/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/arorasneha08/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arorasneha08/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/arorasneha08/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/arorasneha08/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arorasneha08/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
