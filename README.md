@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arorasneha08/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/arorasneha08/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arorasneha08/Leetcode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/arorasneha08/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arorasneha08/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0403-frog-jump](https://github.com/arorasneha08/Leetcode/tree/master/0403-frog-jump) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arorasneha08/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/arorasneha08/Leetcode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/arorasneha08/Leetcode/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arorasneha08/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
