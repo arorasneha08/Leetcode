@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/arorasneha08/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/arorasneha08/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/arorasneha08/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/arorasneha08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arorasneha08/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/arorasneha08/Leetcode/tree/master/0202-happy-number) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/arorasneha08/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/arorasneha08/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/arorasneha08/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/arorasneha08/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/arorasneha08/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/arorasneha08/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/arorasneha08/Leetcode/tree/master/0079-word-search) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arorasneha08/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/arorasneha08/Leetcode/tree/master/0191-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/arorasneha08/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arorasneha08/Leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/arorasneha08/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
