@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arorasneha08/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/arorasneha08/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/arorasneha08/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/arorasneha08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/arorasneha08/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arorasneha08/Leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/arorasneha08/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/arorasneha08/Leetcode/tree/master/0179-largest-number) |
+| [0274-h-index](https://github.com/arorasneha08/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/arorasneha08/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/arorasneha08/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arorasneha08/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/arorasneha08/Leetcode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arorasneha08/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
