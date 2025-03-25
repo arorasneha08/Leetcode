@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/arorasneha08/Leetcode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arorasneha08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/arorasneha08/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arorasneha08/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arorasneha08/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/arorasneha08/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arorasneha08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/arorasneha08/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/arorasneha08/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
