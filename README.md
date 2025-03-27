@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/arorasneha08/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arorasneha08/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/arorasneha08/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/arorasneha08/Leetcode/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/arorasneha08/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/arorasneha08/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/arorasneha08/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/arorasneha08/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/arorasneha08/Leetcode/tree/master/1983-maximum-population-year) |
 | [2145-grid-game](https://github.com/arorasneha08/Leetcode/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/arorasneha08/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2714-left-and-right-sum-differences](https://github.com/arorasneha08/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arorasneha08/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/arorasneha08/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arorasneha08/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1983-maximum-population-year](https://github.com/arorasneha08/Leetcode/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/arorasneha08/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
