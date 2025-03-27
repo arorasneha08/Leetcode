@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arorasneha08/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/arorasneha08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/arorasneha08/Leetcode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/arorasneha08/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arorasneha08/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/arorasneha08/Leetcode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/arorasneha08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/arorasneha08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arorasneha08/Leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/arorasneha08/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/arorasneha08/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/arorasneha08/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/arorasneha08/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
