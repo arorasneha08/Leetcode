@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/arorasneha08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1031-add-to-array-form-of-integer](https://github.com/arorasneha08/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/arorasneha08/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/arorasneha08/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/arorasneha08/Leetcode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/arorasneha08/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arorasneha08/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/arorasneha08/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
