@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/arorasneha08/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arorasneha08/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2902-max-pair-sum-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arorasneha08/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/arorasneha08/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/arorasneha08/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arorasneha08/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arorasneha08/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arorasneha08/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/arorasneha08/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/arorasneha08/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/arorasneha08/Leetcode/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sliding Window
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/arorasneha08/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arorasneha08/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arorasneha08/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/arorasneha08/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arorasneha08/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/arorasneha08/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
@@ -892,12 +897,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/arorasneha08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arorasneha08/Leetcode/tree/master/0739-daily-temperatures) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arorasneha08/Leetcode/tree/master/0204-count-primes) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arorasneha08/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Game Theory
 |  |
 | ------- |
