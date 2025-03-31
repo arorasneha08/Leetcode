@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/arorasneha08/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arorasneha08/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2487-optimal-partition-of-string](https://github.com/arorasneha08/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arorasneha08/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arorasneha08/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/arorasneha08/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2487-optimal-partition-of-string](https://github.com/arorasneha08/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2509-minimize-xor](https://github.com/arorasneha08/Leetcode/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/arorasneha08/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/arorasneha08/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arorasneha08/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/arorasneha08/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/arorasneha08/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3447-clear-digits](https://github.com/arorasneha08/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arorasneha08/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arorasneha08/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
