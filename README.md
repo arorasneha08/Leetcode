@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/arorasneha08/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2902-max-pair-sum-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2902-max-pair-sum-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arorasneha08/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arorasneha08/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/arorasneha08/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/arorasneha08/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/arorasneha08/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
