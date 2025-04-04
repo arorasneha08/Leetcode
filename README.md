@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/arorasneha08/Leetcode/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/arorasneha08/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arorasneha08/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/arorasneha08/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/arorasneha08/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arorasneha08/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/arorasneha08/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/arorasneha08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/arorasneha08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arorasneha08/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arorasneha08/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arorasneha08/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/arorasneha08/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arorasneha08/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/arorasneha08/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bucket Sort
 |  |
