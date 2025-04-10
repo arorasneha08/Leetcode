@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/arorasneha08/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/arorasneha08/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1706-min-cost-to-connect-all-points](https://github.com/arorasneha08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/arorasneha08/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arorasneha08/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/arorasneha08/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arorasneha08/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1706-min-cost-to-connect-all-points](https://github.com/arorasneha08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/arorasneha08/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/arorasneha08/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/arorasneha08/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/arorasneha08/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/arorasneha08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arorasneha08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/arorasneha08/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/arorasneha08/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -959,4 +962,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arorasneha08/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/arorasneha08/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/arorasneha08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
