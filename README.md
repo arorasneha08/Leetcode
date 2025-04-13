@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/arorasneha08/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/arorasneha08/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/arorasneha08/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/arorasneha08/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arorasneha08/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/arorasneha08/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/arorasneha08/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/arorasneha08/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/arorasneha08/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/arorasneha08/Leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
