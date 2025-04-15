@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/arorasneha08/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/arorasneha08/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/arorasneha08/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/arorasneha08/Leetcode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arorasneha08/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/arorasneha08/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/arorasneha08/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/arorasneha08/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2448-count-number-of-bad-pairs](https://github.com/arorasneha08/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arorasneha08/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/arorasneha08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/arorasneha08/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/arorasneha08/Leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arorasneha08/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/arorasneha08/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0493-reverse-pairs) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/arorasneha08/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
@@ -863,11 +868,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/arorasneha08/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/arorasneha08/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2280-count-good-triplets-in-an-array](https://github.com/arorasneha08/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
 | ------- |
